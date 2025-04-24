@@ -74,4 +74,18 @@ To run this project locally:
    open index.html
    ```
 
-> 💡 You can also
+> 💡 You can also drag and drop the file into your browser or use VS Code’s Live Server extension.
+
+---
+
+## 👨‍💻 Developer
+
+**Razeel Kapdi**
+
+- **GitHub**: [Blackcommando101](https://github.com/Blackcommando101)
+- **LinkedIn**: [Razeel Kapdi](https://www.linkedin.com/in/razeel-kapdi-698955267/)
+- **Email**: razeelkapdi2003@gmail.com
+
+---
+
+Challenge your memory and reflexes—can you beat all the levels? 🧠🔥
